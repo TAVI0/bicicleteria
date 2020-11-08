@@ -1,0 +1,16 @@
+*{
+    font-family: monospace;
+}
+h1{
+    margin: 30px auto;
+    text-align: center;
+}
+form{
+    display: flex;
+}
+div{
+    margin: 0 auto;
+}
+.confirm{
+    color:#00cc00;
+}
